@@ -1,2 +1,10 @@
 # twitter-sentiment
 Python scripts that parse feeds from Twitter API, analyze sentiment, and output to CSV for visualization
+
+# Script Description
+
+twitterstream.py: this script establishes API connection and parses Twitter data
+coordinate_score.py: this script calculates sentiment score of each Twit and export it with the corresponding geo location
+
+# Visualization
+https://ianxxiao.carto.com/tables/sentiment_analysis_based_on_twitter_feed/public/map
