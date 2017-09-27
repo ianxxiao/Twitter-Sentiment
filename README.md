@@ -1,5 +1,5 @@
-# Twitter Sentiment (Developed in 2014)
-Python scripts that parse feeds from Twitter API, analyze sentiment, and output to CSV for visualization
+# Twitter Sentiment
+Python scripts that parse feeds from Twitter API, analyze sentiment, and output to CSV for visualization. The dataset used in this example contains ~196,500 tweets collected in a 20-min window in 2014. 
 
 # Script Description
 
